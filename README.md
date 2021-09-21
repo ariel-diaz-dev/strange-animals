@@ -1,0 +1,2 @@
+# strange-animals
+Username generator.
