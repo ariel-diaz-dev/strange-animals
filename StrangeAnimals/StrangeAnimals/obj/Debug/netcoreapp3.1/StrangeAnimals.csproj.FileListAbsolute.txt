@@ -1,0 +1,17 @@
+C:\Projects\GitHub\strange-animals\StrangeAnimals\StrangeAnimals\obj\Debug\netcoreapp3.1\StrangeAnimals.csprojAssemblyReference.cache
+C:\Projects\GitHub\strange-animals\StrangeAnimals\StrangeAnimals\obj\Debug\netcoreapp3.1\StrangeAnimals.AssemblyInfoInputs.cache
+C:\Projects\GitHub\strange-animals\StrangeAnimals\StrangeAnimals\obj\Debug\netcoreapp3.1\StrangeAnimals.AssemblyInfo.cs
+C:\Projects\GitHub\strange-animals\StrangeAnimals\StrangeAnimals\obj\Debug\netcoreapp3.1\StrangeAnimals.csproj.CoreCompileInputs.cache
+C:\Projects\GitHub\strange-animals\StrangeAnimals\StrangeAnimals\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\GitHub\strange-animals\StrangeAnimals\StrangeAnimals\bin\Debug\netcoreapp3.1\StrangeAnimals.exe
+C:\Projects\GitHub\strange-animals\StrangeAnimals\StrangeAnimals\bin\Debug\netcoreapp3.1\StrangeAnimals.deps.json
+C:\Projects\GitHub\strange-animals\StrangeAnimals\StrangeAnimals\bin\Debug\netcoreapp3.1\StrangeAnimals.runtimeconfig.json
+C:\Projects\GitHub\strange-animals\StrangeAnimals\StrangeAnimals\bin\Debug\netcoreapp3.1\StrangeAnimals.runtimeconfig.dev.json
+C:\Projects\GitHub\strange-animals\StrangeAnimals\StrangeAnimals\bin\Debug\netcoreapp3.1\StrangeAnimals.dll
+C:\Projects\GitHub\strange-animals\StrangeAnimals\StrangeAnimals\bin\Debug\netcoreapp3.1\StrangeAnimals.pdb
+C:\Projects\GitHub\strange-animals\StrangeAnimals\StrangeAnimals\obj\Debug\netcoreapp3.1\StrangeAnimals.csproj.CopyComplete
+C:\Projects\GitHub\strange-animals\StrangeAnimals\StrangeAnimals\obj\Debug\netcoreapp3.1\StrangeAnimals.dll
+C:\Projects\GitHub\strange-animals\StrangeAnimals\StrangeAnimals\obj\Debug\netcoreapp3.1\StrangeAnimals.pdb
+C:\Projects\GitHub\strange-animals\StrangeAnimals\StrangeAnimals\obj\Debug\netcoreapp3.1\StrangeAnimals.genruntimeconfig.cache
+C:\Projects\GitHub\strange-animals\StrangeAnimals\StrangeAnimals\bin\Debug\netcoreapp3.1\adjectives.json
+C:\Projects\GitHub\strange-animals\StrangeAnimals\StrangeAnimals\bin\Debug\netcoreapp3.1\animals.json

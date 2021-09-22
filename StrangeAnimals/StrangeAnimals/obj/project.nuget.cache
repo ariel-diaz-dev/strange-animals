@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AwWVRTBzu32UaDMgnUtLBlQ0NjoNofEvatCsynkVG1FI0kKyYmSOn9hLXG4x8wI/TwlX7H6I23gYaW1eb+cc8w==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\GitHub\\strange-animals\\StrangeAnimals\\StrangeAnimals\\StrangeAnimals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arield\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\arield\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
